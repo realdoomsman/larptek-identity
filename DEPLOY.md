@@ -23,12 +23,13 @@
    - Go to [vercel.com](https://vercel.com)
    - Click "Add New Project"
    - Import your GitHub repository
-   - Configure settings:
+   - **IMPORTANT: Configure settings:**
      - **Framework Preset**: Next.js
-     - **Root Directory**: `web`
-     - **Build Command**: `npm run build`
-     - **Output Directory**: `.next`
-     - **Install Command**: `npm install`
+     - **Root Directory**: `web` ⚠️ (Must be set!)
+     - **Build Command**: Leave as default (`next build`)
+     - **Output Directory**: Leave as default (`.next`)
+     - **Install Command**: Leave as default (`npm install`)
+   - Click "Deploy"
 
 4. **Environment Variables** (Optional)
    - No environment variables required for basic deployment
