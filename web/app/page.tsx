@@ -152,12 +152,12 @@ export default function HomePage() {
             style={{ boxShadow: '0 0 24px rgba(168,85,247,0.12) inset, 0 0 16px rgba(34,211,238,0.16)' }}
           >
             <div className="text-sm text-gray-400 mb-2">Stay in the loop</div>
-            <h3 className="text-xl font-semibold text-white mb-4">Follow @larptek on Twitter</h3>
+            <h3 className="text-xl font-semibold text-white mb-4">Follow @LarpTekWork on X</h3>
             <p className="text-sm text-gray-300 mb-5">
               Product releases, integration guides, and ecosystem updates.
             </p>
             <div className="inline-flex items-center gap-2 rounded-xl border border-white/10 bg-white/5 px-4 py-2.5 text-sm text-white">
-              Open Twitter
+              Open X
             </div>
             <span className="pointer-events-none absolute -right-10 -top-10 h-40 w-40 rounded-full bg-cyan-400/20 blur-2xl transition group-hover:bg-cyan-400/30" />
           </a>
