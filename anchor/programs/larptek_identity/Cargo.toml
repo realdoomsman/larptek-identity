@@ -1,0 +1,11 @@
+[package]
+name = "larptek_identity"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "larptek_identity"
+crate-type = ["cdylib", "lib"]
+
+[dependencies]
+anchor-lang = "0.30.1"

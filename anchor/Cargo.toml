@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "programs/larptek_identity"
+]
+resolver = "2"
