@@ -1,0 +1,16 @@
+{
+  "name": "LARPTEK",
+  "short_name": "LARPTEK",
+  "description": "Private Proof of Personhood on Solana - Pseudonymous identity protocol",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#22D3EE",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

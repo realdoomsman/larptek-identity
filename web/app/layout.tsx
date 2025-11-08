@@ -5,13 +5,14 @@ import { WalletProviderClient } from '@/components/WalletProvider';
 export const metadata: Metadata = {
   title: 'LARPTEK - Identity for the Synthetic Internet',
   description: 'Prove you are real - without revealing who you are.',
+  manifest: '/manifest.json',
   icons: { 
     icon: '/favicon.svg',
   },
   openGraph: {
     title: 'LARPTEK - Private Proof of Personhood on Solana',
     description: 'Get a pseudonymous ID on Solana to show you are a real human - without sharing personal data.',
-    url: 'https://larptek.com',
+    url: 'https://larptek.work',
     siteName: 'LARPTEK',
   },
 };
